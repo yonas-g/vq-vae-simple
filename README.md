@@ -1,6 +1,6 @@
 # vq-vae
 
-Simplest experimentation implementation of VQ-VAE from https://arxiv.org/pdf/1711.00937
+Simplest implementation of VQ-VAE for experiment from https://arxiv.org/pdf/1711.00937
 
 ## LOSS CALCULATION
 During loss calculation, we do reconstruction loss, commitment loss and codebook loss. 
